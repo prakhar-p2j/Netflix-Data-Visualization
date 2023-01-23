@@ -5,3 +5,6 @@ Created an interactive dashboard to answer the following questions:
 2. Top 5 countries that release most movies or Tv shows on Netflix?
 3. Which genres are most released on Netflix?
 4. List of movies and Tv shows by country.
+
+
+You can view the Tableau Dashboard here : https://public.tableau.com/views/NetflixMoviesandTVShows_16737812179660/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
